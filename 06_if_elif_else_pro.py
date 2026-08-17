@@ -1,3 +1,4 @@
+#Python program to understand the use of if, elif & else statements using traffic light conditions. 
 light = "yellow"
 if(light == "red"):
     print("stop")
