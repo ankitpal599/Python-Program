@@ -1,3 +1,4 @@
+#Python program to perform basic arithmetic operations.
 a = 40
 b = 20
 print(type (a))
