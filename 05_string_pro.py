@@ -1,3 +1,4 @@
+#Python program to perform various string operations.
 Name = input("enter your  name:")
 print("length of your name is", len(Name),"\n")
 str = "I am currently pursuing BE fron CSE"
