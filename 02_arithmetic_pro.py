@@ -1,3 +1,4 @@
+#Python program to perform basic arithmetic operations by taking input from the user. 
 a = int(input("enter a:"))
 b = int(input("enter b:"))
 print("sum=", a+b,"\n")
