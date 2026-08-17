@@ -1,3 +1,4 @@
+#Python program to calculate area and perimeter of square and rectangle by taking input from the user.
 side = int(input("enter square side:"))
 #we can use float instead of int for decimal number.
 print("area=",side*side)
