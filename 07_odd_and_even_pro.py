@@ -4,5 +4,5 @@ remainder = number%2
 if(remainder == 0 ):
     print("Even number")
 else:
-    print("Odd number","\n")    
+    print("Odd number")    
  
