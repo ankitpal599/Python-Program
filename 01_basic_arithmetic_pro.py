@@ -16,13 +16,13 @@ print(module)
 print("\n")
 a=float(40)
 b=float(20)
-sum=a+b
-print(sum)
+add =a+b
+print(add)
 diff=a-b
 print(diff)
 multiply=a*b
 print(multiply)
-divison=a/b
-print(divison)
+division=a/b
+print(division)
 module=a%b
 print(module)
