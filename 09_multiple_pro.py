@@ -1,4 +1,4 @@
-#Python program to check the multiple of 9.
+#Python program to check the multiple of 9 when input is given by user.
 num = int(input("enter the number"))
 if(num % 9 == 0):
     print("multiple of 9")
