@@ -7,4 +7,4 @@ length = int(input("enter length:"))
 breadth = int(input("enter breadth:"))
 #we can use float instead of int if any of the both no. are decimal number.
 print("area=",length*breadth)
-print("perimeter=",2*length+breadth)
+print("perimeter=",2*length+2*breadth)
