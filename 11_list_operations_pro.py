@@ -1,3 +1,4 @@
+#Python program to perform various list operations.
 evenlist = [2, 4, 6, 8, 10, 12, 14]
 print(evenlist[1:4])
 print(evenlist[-3:-1])
