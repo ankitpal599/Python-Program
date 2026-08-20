@@ -1,3 +1,4 @@
+#Python program to perform tuple operations.
 tup = ("java", "dsa", "python", "dsa", "html", "dsa")
 print(tup[1:5])
 print(type(tup))
