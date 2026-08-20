@@ -1,3 +1,4 @@
+#Python program to check whether given list is a palindrome or not a palindrome.
 list1 = [1,2,3,4,3,2,1]
 copy_list1 = list1.copy()
 copy_list1.reverse()
