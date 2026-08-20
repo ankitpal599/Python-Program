@@ -1,0 +1,6 @@
+tup = ("java", "dsa", "python", "dsa", "html", "dsa")
+print(tup[1:5])
+print(type(tup))
+print(tup)
+print(tup.index("python"))
+print(tup.count("dsa"))
