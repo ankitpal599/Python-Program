@@ -1,3 +1,4 @@
+#Python program to ask the user to enter three subjects name and store them in a list.
 subjects = []
 sub1 = input("enter 1st sub1: ")
 subjects.append(sub1)
