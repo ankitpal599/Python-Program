@@ -1,3 +1,4 @@
+#Python program to perform various set  operations.
 cities = {"Ayodhya", "Mathura", "Agra", "Ayodhya", "Lucknow", "Agra", "Mathura", "Delhi",  }
 print(cities)
 print(type(cities))
