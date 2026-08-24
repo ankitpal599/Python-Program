@@ -1,3 +1,4 @@
+#Python program to print odd and even numbers from 1-20 using while loop.
 i = 1
 while i <= 20:
     if(i%2 == 0):
