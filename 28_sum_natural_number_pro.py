@@ -1,3 +1,4 @@
+#Python program to find the sum of the first n natural numbers using while and for loop.
 n = 6
 sum = 0
 i = 1
