@@ -1,3 +1,4 @@
+#Python program for using range function within a for loop.
 for i in range(10): #range(stop)
     print(i)
 
