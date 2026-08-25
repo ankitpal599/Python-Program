@@ -1,3 +1,4 @@
+#Python program to calculate factorial of a number using both a while loop and a for loop.
 n = 4
 fact = 1
 i = 1
