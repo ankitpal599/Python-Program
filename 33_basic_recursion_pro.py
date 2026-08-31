@@ -1,3 +1,4 @@
+#Python program to print numbers from 10 to 1 and calculate factorial of given number using recursion.
 def num(n):
     if(n == 0):
         return
