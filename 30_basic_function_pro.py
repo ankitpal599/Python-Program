@@ -1,3 +1,4 @@
+#Python program to calculate the sum, product and average of given numbers using functions.
 def calc_sum(a, b):
     sum = a + b
     print(sum)
