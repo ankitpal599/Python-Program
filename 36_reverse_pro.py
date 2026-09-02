@@ -1,3 +1,4 @@
+#Python program to print the reverse digits of a given number.
 num = int(input("enter a number:"))
 def reverse_number(n):
     rev = 0
