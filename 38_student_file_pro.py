@@ -1,3 +1,4 @@
+#Python program to print student details using basic file operations.
 name = input("enter student name:")
 roll = input("enter roll number:")
 cgpa = input("enter cgpa:")
