@@ -1,3 +1,4 @@
+#Python program to demonstrate basic file operations using both open() and with open() methods.
 file = open("data.txt","w")
 file.write("Hello World!\n")
 file.write("I am Ankit Pal.")
