@@ -1,3 +1,4 @@
+#Python program to perform file handling using using write(),read() and apppend mode.
 file = open("student.txt","w")
 file.write("Name:Ankit Pal\n")
 file.write("Course:BE(CSE)\n")
