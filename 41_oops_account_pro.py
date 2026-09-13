@@ -1,3 +1,4 @@
+#Python program to create an account with methods for debit, credit and checking balance and perform different debit and credit transactions on an account.
 class Account:
     def __init__(self, bal, acc):
         self.balance = bal
