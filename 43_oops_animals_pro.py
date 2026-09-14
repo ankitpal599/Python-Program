@@ -1,3 +1,4 @@
+ #Python program to demonstrate inheritance and polymorphism using an Animal class and its derived classes where each classs should have a speak() method that diplays the sound made by that animal.
 class Animal:
     def speak(self):
         print("Animal makes a sound")
