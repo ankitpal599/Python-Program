@@ -1,3 +1,4 @@
+#Python program to create Rectangle class with length and width as attributes and methods to calculate and diplay area and perimeter of a rectangle.
 class Rectangle:
     def __init__(self, length, width):
         self.length = length
