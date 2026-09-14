@@ -1,3 +1,4 @@
+#Python program to demonstrate polymorphism using different payment methods.Define a pay() method in each class and create a make_payment() function that can processs payments using any of these methods.
 class Cash:
     def pay(self):
         print("Payment made using Cash")
